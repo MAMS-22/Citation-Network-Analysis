@@ -1,3 +1,6 @@
 dblp_subset.json
 bib_top10.csv
 co_top10.csv
+pagerank_best_top10.csv
+pagerank_correlations.csv
+pagerank_worst_top10.csv
